@@ -1,3 +1,4 @@
+﻿//ทดสอบการใช้ githup วันที่ 4 กันยายน 2556
 <?php 
 session_start();
 include ('connect.php');
